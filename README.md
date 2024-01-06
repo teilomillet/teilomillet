@@ -5,7 +5,7 @@ I'm an aspiring developer and AI enthusiast, continually learning and exploring 
 
 Notably, my work with the [MiniMerlin](https://huggingface.co/teilomillet/MiniMerlin-3B) model, part of the [Merlin](https://huggingface.co/collections/teilomillet/merlin-659957c72ca1fbfe1c6239d0) series, aimed to create efficient, low-memory personal assistants. These POC models, built on architectures like Llama 2 and Mistral, integrate role-play, language learning, and strive to preserve pre-trained knowledge.
 
-Parallel to this, the [Potato](https://huggingface.co/collections/teilomillet/potato-65995835eabe0f3e98b7937b) series, inspired by the adaptability of Mr. Potato, focuses on the merging of model architectures to create versatile and capable AI systems. My ongoing journey in AI is marked by constant learning and experimentation, aiming to contribute efficient and effective models for various applications.
+Parallel to this, the [Potato](https://huggingface.co/collections/teilomillet/potato-65995835eabe0f3e98b7937b) series, inspired by the adaptability of Mr. Potato, focuses on the merging of model's task vectors to create versatile and capable AI systems. My ongoing journey in AI is marked by constant learning and experimentation, aiming to contribute efficient and effective models for various applications.
 
 I'm always interested in exploring new opportunities and collaborations in the AI field.
 
@@ -24,7 +24,7 @@ I'm always interested in exploring new opportunities and collaborations in the A
 ## How to Reach Me
 - **Twitter**: [teilomillet](https://twitter.com/teilomillet)
 - **Email**: [hello@teilo.xyz](mailto:hello@teilo.xyz)
-
+- **Discord**: teilom
 ---
 
 Feel free to reach out for collaborations or just a chat about technology and AI. I'm always open to sharing ideas and learning from the community.
