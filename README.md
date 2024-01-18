@@ -1,7 +1,5 @@
 # Hi, I'm [Teïlo Millet](https://github.com/teilomillet) 👋
 
-## About Me
-
 ## I'm Currently Working On
 - **Model Integration**: Fine-tuning and merging diverse open-source models, spanning from role-playing applications to new language implementation.
     - **Merlin**: Series of POC, aimed to create efficient, low-memory personal assistants. [Merlin](https://huggingface.co/collections/teilomillet/merlin-659957c72ca1fbfe1c6239d0)
