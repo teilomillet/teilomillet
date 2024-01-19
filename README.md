@@ -2,7 +2,7 @@
 
 ## I'm Currently Working On
 - **Model Integration**: Fine-tuning and merging diverse open-source models, spanning from role-playing applications to new language implementation.
-    - **Merlin**: Series of POC, aimed to create efficient, low-memory personal assistants. [Merlin](https://huggingface.co/collections/teilomillet/merlin-659957c72ca1fbfe1c6239d0)
+    - **Merlin**: Series of POC, aimed to create efficient, low-memory personal assistants. [Merlin](https://huggingface.co/collections/teilomillet/merlin-659957c72ca1fbfe1c6239d0) ([5th best performing LLM in his category (3B) worldwide (as of dec. 23)](https://huggingface.co/teilomillet/MiniMerlin-3B)
     - **Potato**: Series, inspired by the adaptibility of Mr. Potato, focuses on the merging of model's task vectors to create versatile and capable AI systems.[Potato](https://huggingface.co/collections/teilomillet/potato-65995835eabe0f3e98b7937b)
 - **Dataset Development**: Crafting specialized datasets for LLM training, tailored to specific tasks and goals.
 - **Tool Creation**: Building innovative tools to streamline the development and deployment of specialized datasets in AI.
